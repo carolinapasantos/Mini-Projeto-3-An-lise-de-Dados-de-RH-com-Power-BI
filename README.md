@@ -1,4 +1,4 @@
-# 📊 Mini-Projeto 3 – Análise de Dados de RH com Power BI
+# 📊 Mini-Projeto – Análise de Dados de RH com Power BI
 
 Este dashboard foi desenvolvido como parte do Mini-Projeto 3 da **Data Science Academy**, com o objetivo de analisar dados fictícios de Recursos Humanos utilizando o Power BI. A proposta é responder perguntas estratégicas de negócio e exercitar a criação de medidas, colunas condicionais e visualizações interativas.
 
