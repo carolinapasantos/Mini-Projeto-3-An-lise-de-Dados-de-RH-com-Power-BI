@@ -59,6 +59,4 @@ Com isso, foram calculados:
 
 > Os dados utilizados são **fictícios**, criados exclusivamente para fins educacionais.
 
----
 
-**Bons estudos e boas análises!** 🚀
